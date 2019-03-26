@@ -38,4 +38,5 @@ You'll also need the following software installed in advance:
 * Browser: Google Chrome or Mozilla Firefox
 * Conda
 * Jupyterlab
+
 Access to installation instructions can be provided separately to course material for large training centers and organizations. All source code is publicly available on GitHub and fully referenced within the training material.
