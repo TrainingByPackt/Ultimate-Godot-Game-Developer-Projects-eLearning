@@ -39,6 +39,11 @@ You'll also need the following software installed in advance:
 * Conda
 * Jupyterlab
 
+Chapter number | Software required (With version) | Download links to the software | Hardware specifications | OS required
+------------ | ------------- | ------------ | ------------- | ------------ | 
+ 1-7 | Godot 3.0 | https://godotengine.org/download | Video card with OpenGL ES 3.0 support | Windows, Linux, or MacOS
+
+
 Access to installation instructions can be provided separately to course material for large training centers and organizations. All source code is publicly available on GitHub and fully referenced within the training material.
 
 ## Note:
